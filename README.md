@@ -1,4 +1,8 @@
-# React + Vite
+# car-sher-client
+
+client site for car-sher
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
